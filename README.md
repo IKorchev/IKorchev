@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IKorchev
 - 👀 I’m interested in JavaScript and Web Development
-- 🌱 I’m currently learning JavaScript React, Node.js and Next.js
+- 🌱 I’m currently learning JavaScript React, NextJS, Node, Blockchain & Web3 
 - 📫 Visit my website @ www.ikorchev.com :)
 
 <!---
